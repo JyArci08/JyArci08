@@ -1,4 +1,4 @@
-![catto.jpg](catto.jpg)
+![catto.jpg](C:\Users\jaarc\OneDrive\Documents\GitHub\JyArci08\Pictures-Gif)
 
 ### Hey there 👋, I'm Jyrel Arcillas
 
