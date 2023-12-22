@@ -1,6 +1,6 @@
-![name](catto.jpg)
+![catto.jpg](catto.jpg)
 
-# Hey there 👋, I'm Jyrel Arcillas
+### Hey there 👋, I'm Jyrel Arcillas
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 I'm currently a 2nd year college taking the course BSIT, and I'm still in the process of learning different aspects about programming. 
