@@ -1,6 +1,6 @@
 ![pic](catto.jpeg)
 
-# Olá 👋, I'm Jyrel Arcillas
+# <center>Olá 👋, I'm Jyrel Arcillas<center>
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 I'm currently a 2nd year college taking the course BSIT, and I'm still in the process of learning different aspects about programming. 
@@ -12,41 +12,32 @@ ja.arcillas08@gmail.com
 ## 📝 Git Commands Cheat Sheet
 ➡️ Git Init  
 📌 Create an empty Git repository or reinitialize an existing one  
-🎲 Parameter: None
-
-
-Example:
+🎲 Parameter: None  
+✨ Example:  
 ![pic](gitinit.png)
 
 ➡️ Git Clone  
 📌 Clone a repository into a new directory  
 🎲 Parameter: None
-
-
-Example:
+✨ Example:  
 ![pic](gitclone.png)
 
 
 ➡️ Git Add  
 📌 Add file contents to the index  
 🎲 Parameter: File name
-
-
-Example:
+✨ Example:  
 ![pic](gitadd.png)
 
 
 ➡️ Git Status  
 📌 Show the working tree status  
 🎲 Parameter: None
+✨ Example:  
 
-
-Example:
 
 
 ➡️ Git Commit  
 📌 Record changes to the repository  
 🎲 Parameter: None
-
-
-Example:
+✨ Example:  
