@@ -41,4 +41,4 @@ ja.arcillas08@gmail.com
 📌 Record changes to the repository  
 🎲 Parameter: -m "your commit message"  
 ✨ Example:    
-![pic](gitcommit.png)
+![pic](gitcom.png)
