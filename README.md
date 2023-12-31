@@ -1,4 +1,4 @@
-![pic](catto.jpeg)
+![pic](catto.jpg)
 
 # <center>Olá 👋, I'm Jyrel Arcillas<center>
 
@@ -26,18 +26,19 @@ ja.arcillas08@gmail.com
 ➡️ Git Add  
 📌 Add file contents to the index  
 🎲 Parameter: File name
-✨ Example:  
+✨ Example:    
 ![pic](gitadd.png)
 
 
 ➡️ Git Status  
 📌 Show the working tree status  
 🎲 Parameter: None
-✨ Example:  
+✨ Example:    
 ![pic](gitstatus.png)
 
 
 ➡️ Git Commit  
 📌 Record changes to the repository  
 🎲 Parameter: None
-✨ Example:  
+✨ Example:    
+![pic](gitcommit.png)
