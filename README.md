@@ -1,4 +1,4 @@
-![pic](catto.jpg)
+![pic](githubintro.gif)
 
                                          Y'all can call me Jy!😁
 
