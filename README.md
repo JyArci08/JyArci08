@@ -12,7 +12,7 @@ ja.arcillas08@gmail.com
 ## 📝 Git Commands Cheat Sheet
 ➡️ Git Init  
 📌 Create an empty Git repository or reinitialize an existing one  
-Parameter: None
+🎲 Parameter: None
 
 
 Example:
@@ -20,7 +20,7 @@ Example:
 
 ➡️ Git Clone  
 📌 Clone a repository into a new directory  
-Parameter: None
+🎲 Parameter: None
 
 
 Example:
@@ -29,7 +29,16 @@ Example:
 
 ➡️ Git Add  
 📌 Add file contents to the index  
-Parameter: File name
+🎲 Parameter: File name
+
+
+Example:
+![pic](gitadd.png)
+
+
+➡️ Git Status  
+📌 Show the working tree status  
+🎲 Parameter: None
 
 
 Example:
@@ -37,7 +46,7 @@ Example:
 
 ➡️ Git Commit  
 📌 Record changes to the repository  
-Parameter: None
+🎲 Parameter: None
 
 
 Example:
