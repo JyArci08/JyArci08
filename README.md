@@ -34,7 +34,7 @@ ja.arcillas08@gmail.com
 📌 Show the working tree status  
 🎲 Parameter: None
 ✨ Example:  
-
+![pic](gitstatus.png)
 
 
 ➡️ Git Commit  
