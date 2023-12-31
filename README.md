@@ -9,9 +9,30 @@ I'm currently a 2nd year college taking the course BSIT, and I'm still in the pr
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ja.arcillas08@gmail.com
 
 ## 📝 Git Commands Cheat Sheet
-Git Clone
-<h6>- Clone a repository into a new directory<h6>
-<h6>Parameter: None<h6>
+➡️ Git Init
+📌 Create an empty Git repository or reinitialize an existing one
+Parameter: None
+
+Example:
+![pic](gitinit.png)
+
+➡️ Git Clone
+📌 Clone a repository into a new directory
+Parameter: None
 
 Example:
 ![pic](gitclone.png)
+
+
+➡️ Git Add
+📌 Add file contents to the index
+Parameter: File name
+
+Example:
+
+
+➡️ Git Commit
+📌 Record changes to the repository
+Parameter: None
+
+Example:
