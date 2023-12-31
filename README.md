@@ -18,27 +18,27 @@ ja.arcillas08@gmail.com
 
 ➡️ Git Clone  
 📌 Clone a repository into a new directory  
-🎲 Parameter: None
+🎲 Parameter: [url]  
 ✨ Example:  
 ![pic](gitclone.png)
 
 
 ➡️ Git Add  
 📌 Add file contents to the index  
-🎲 Parameter: File name
+🎲 Parameter: File name  
 ✨ Example:    
 ![pic](gitadd.png)
 
 
 ➡️ Git Status  
 📌 Show the working tree status  
-🎲 Parameter: None
+🎲 Parameter: None  
 ✨ Example:    
 ![pic](gitstatus.png)
 
 
 ➡️ Git Commit  
 📌 Record changes to the repository  
-🎲 Parameter: None
+🎲 Parameter: -m "your commit message"  
 ✨ Example:    
 ![pic](gitcommit.png)
