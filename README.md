@@ -42,3 +42,15 @@ ja.arcillas08@gmail.com
 🎲 Parameter: -m "your commit message"  
 ✨ Example:    
 ![pic](gitcom.png)
+
+➡️ Git Log  
+📌 Show the commit logs
+🎲 Parameter: None
+✨ Example:    
+![pic](gitlog.png)
+
+➡️ Git Branch  
+📌 List, create, or delete branches
+🎲 Parameter: None
+✨ Example:    
+![pic](gitbranch.png)
