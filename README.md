@@ -43,14 +43,14 @@ ja.arcillas08@gmail.com
 ✨ Example:    
 ![pic](gitcom.png)
 
-➡️ Git Log  
-📌 Show the commit logs
-🎲 Parameter: None
-✨ Example:    
-![pic](gitlog.png)
+➡️ Git Log    
+📌 Show the commit logs   
+🎲 Parameter: None  
+✨ Example:      
+![pic](gitlog.png)  
 
-➡️ Git Branch  
-📌 List, create, or delete branches
-🎲 Parameter: None
-✨ Example:    
-![pic](gitbranch.png)
+➡️ Git Branch     
+📌 List, create, or delete branches    
+🎲 Parameter: None    
+✨ Example:        
+![pic](gitbranch.png)    
