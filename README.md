@@ -29,7 +29,7 @@
 
 #### Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Network_Configuration-0052CC?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Basic_Network_Configuration-0052CC?style=for-the-badge)
 
 #### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
