@@ -4,7 +4,7 @@
 
 
 ## 👨‍💻 About Me
-🎓 BS Information Technology major in Cybersecurity at Mapúa Malayan Colleges Laguna  
+🎓 4th-Year IT Student specializing in Cybersecurity at Mapúa Malayan Colleges Laguna  
 🏅 Dean’s Lister (2022–2025) | President’s Lister (2022–2023)  
 💡 Passionate about building secure, user-centered systems and real-world applications  
 
@@ -38,5 +38,5 @@ GitHub • VS Code • Figma
 
 ## 📫 Connect with Me
 - 📧 Email: jyrel08arcillas@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
-- 💻 GitHub: https://github.com/YOUR-GITHUB-USERNAME  
+- 💼 LinkedIn: https://www.linkedin.com/in/jyrel-arcillas-4123853bb/  
+- 💻 GitHub: https://github.com/JyArci08 
