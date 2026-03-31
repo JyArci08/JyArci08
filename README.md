@@ -12,16 +12,16 @@
 #### 💻 Programming
 Python • JavaScript • C# • C++
 
-# 🌐 Web Development
+#### 🌐 Web Development
 HTML • CSS • React • JavaScript  
 
-### 🗄 Databases
+#### 🗄 Databases
 MySQL • Oracle  
 
-### 🌐 Networking
+#### 🌐 Networking
 Cisco Packet Tracer • Basic Network Configuration  
 
-### 🧰 Tools
+#### 🧰 Tools
 GitHub • VS Code • Figma  
 
 ## 📜 Certifications
