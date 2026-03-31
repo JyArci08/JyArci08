@@ -9,20 +9,33 @@
 💡 Passionate about building secure, user-centered systems and real-world applications  
 
 ## 🛠 Tech Stack
-#### 💻 Programming
-Python • JavaScript • C# • C++
 
-#### 🌐 Web Development
-HTML • CSS • React • JavaScript  
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cs,cpp" />
+</p>
 
-#### 🗄 Databases
-MySQL • Oracle  
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,js" />
+</p>
 
-#### 🌐 Networking
-Cisco Packet Tracer • Basic Network Configuration  
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-#### 🧰 Tools
-GitHub • VS Code • Figma  
+### Networking
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+</p>
 
 ## 📜 Certifications
 - CompTIA Tech+ Certification (2025)  
