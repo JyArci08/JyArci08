@@ -1,4 +1,4 @@
-![pic](githubintro.gif)
+https://ph.pinterest.com/pin/18225573487664210/
 
                                                Y'all can call me Jy!😁
 
